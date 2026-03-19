@@ -107,7 +107,9 @@ python submit.py
 We welcome feedback or reports of any technical issues.
 
 **Team Name:** PathMedAI
+
 **Leader Contact:** Nguyen Trong Duc
+
 **Email:** [nggtduc@gmail.com](mailto:nggtduc@gmail.com)
 
 ## Acknowledgements
