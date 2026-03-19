@@ -10,7 +10,6 @@ This repository contains the reproducibility package for our **white blood cell 
 
 ## Table of Contents
 - [Environment Requirements](#environment-requirements)
-- [Quick Start (Inference Only)](#quick-start-inference-only)
 - [Data Preparation (End-to-End)](#data-preparation-end-to-end)
 - [Training Pipeline](#training-pipeline)
 - [Inference & Submission](#inference--submission)
@@ -36,8 +35,6 @@ pip install -r requirements.txt
 ---
 
 ## Data Preparation (End-to-End)
-
-Execute only if you want full dataset restoration from raw Kaggle data.
 
 1. Extract raw Kaggle data:
 
