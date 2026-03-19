@@ -1,0 +1,13 @@
+opencv-python
+pandas
+torch==2.9.0
+cellpose==4.0.8
+dominate==2.9.1
+wandb==0.23.1
+huggingface_hub
+timm==1.0.22
+albumentations==2.0.8
+scikit-learn==1.7.2
+transformers==4.57.3
+tensorflow==2.20.0
+sentencepiece
