@@ -1,5 +1,5 @@
 # WBCBench 2026: White Blood Cell Classification
-**PathMedAI Team – ISBI 2026 Grand Challenge (Top 2)**
+**PathMedAI Team – ISBI 2026 Grand Challenge**
 
 This repository contains the reproducibility package for our **white blood cell classification solution** submitted to WBCBench 2026.
 
